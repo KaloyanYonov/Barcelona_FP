@@ -1,6 +1,3 @@
-import Footer from "../reusable/Footer";
-import Header from "../reusable/Header";
-import { BrowserRouter,Routes,Route,Link } from "react-router-dom";
 
 
 export default function Home(){
