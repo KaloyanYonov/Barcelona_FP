@@ -13,8 +13,13 @@
 
 ## Setup
 ```bash
-npm i -D tailwindcss @tailwindcss/vite
-npm i framer-motion
 npm i react-router-dom
 npm install
 npm run dev
+```
+
+## Packages
+```bash
+npm i -D tailwindcss @tailwindcss/vite
+npm i framer-motion
+```
